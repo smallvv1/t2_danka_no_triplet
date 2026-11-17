@@ -1,0 +1,4 @@
+2026-11-13 17:51:58,318 INFO loss_contract triplet_enabled=False triplet_weight=0.000000 triplet_loss=0.0 loss_types=['ce', 'clipBio'] total=CE+Bio+0.1*GPC+0.001*(SHN_MP+0.5*CAPR_B)
+2026-11-13 17:52:26,928 INFO epoch 1/1 loss=7.793321 ndp=0.000000 active=0/0 lr=8.422e-07 skip=0
+2026-11-13 17:52:41,992 INFO loss_contract triplet_enabled=False triplet_weight=0.000000 triplet_loss=0.0 loss_types=['ce', 'clipBio'] total=CE+Bio+0.1*GPC+0.001*(SHN_MP+0.5*CAPR_B)
+2026-11-13 17:53:15,966 INFO epoch 3/3 loss=7.794163 ndp=1.048570 active=383/383 lr=9.641e-07 skip=0
